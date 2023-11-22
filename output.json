@@ -1,0 +1,11 @@
+[
+  {
+    "query": "Search for articles on quantum theory",
+    "expected_output": [
+      {
+        "action": "search",
+        "value": "articles on quantum theory"
+      }
+    ]
+  }
+]
