@@ -1,0 +1,769 @@
+[
+  {
+    "text": "Play the album 'A Love Supreme' by John Coltrane and set the volume to 60%",
+    "labels": [
+      {
+        "action": "play",
+        "value": "the album 'A Love Supreme' by John Coltrane and set the volume to 60%"
+      }
+    ]
+  },
+  {
+    "text": "Set a reminder for tomorrow",
+    "labels": [
+      {
+        "action": "set",
+        "value": "a reminder for tomorrow"
+      }
+    ]
+  },
+  {
+    "text": "Search for articles on quantum theory",
+    "labels": [
+      {
+        "action": "search",
+        "value": "for articles on quantum theory"
+      }
+    ]
+  },
+  {
+    "text": "Search for articles on quantum theory",
+    "labels": [
+      {
+        "action": "search",
+        "value": "for articles on quantum theory"
+      }
+    ]
+  },
+  {
+    "text": "Set a reminder for tomorrow",
+    "labels": [
+      {
+        "action": "set",
+        "value": "a reminder for tomorrow"
+      }
+    ]
+  },
+  {
+    "text": "Send me an email",
+    "labels": [
+      {
+        "action": "send",
+        "value": "me an email"
+      }
+    ]
+  },
+  {
+    "text": "Play the album 'A Love Supreme' by John Coltrane and set the volume to 60%",
+    "labels": [
+      {
+        "action": "play",
+        "value": "the album 'A Love Supreme' by John Coltrane and set the volume to 60%"
+      }
+    ]
+  },
+  {
+    "text": "Play the album 'A Love Supreme' by John Coltrane and set the volume to 60%",
+    "labels": [
+      {
+        "action": "play",
+        "value": "the album 'A Love Supreme' by John Coltrane and set the volume to 60%"
+      }
+    ]
+  },
+  {
+    "text": "Translate 'Hello' into French and send it to my friend.",
+    "labels": [
+      {
+        "action": "translate",
+        "value": "Hello",
+        "destination": "French"
+      },
+      {
+        "action": "send",
+        "destination": "friend"
+      }
+    ]
+  },
+  {
+    "text": "Check the stock prices for Apple and set a notification for significant changes.",
+    "labels": [
+      {
+        "action": "check",
+        "value": "stock prices for Apple"
+      },
+      {
+        "action": "set",
+        "destination": "notification",
+        "value": "significant changes"
+      }
+    ]
+  },
+  {
+    "text": "Compose a poem about nature and save it to my creative writing folder.",
+    "labels": [
+      {
+        "action": "compose",
+        "value": "poem about nature"
+      },
+      {
+        "action": "save",
+        "destination": "creative writing folder"
+      }
+    ]
+  },
+  {
+    "text": "Find a workout routine for beginners and add it to my fitness plan.",
+    "labels": [
+      {
+        "action": "find",
+        "value": "workout routine for beginners"
+      },
+      {
+        "action": "add",
+        "destination": "fitness plan"
+      }
+    ]
+  },
+  {
+    "text": "Order a pizza with pepperoni and have it delivered to my home.",
+    "labels": [
+      {
+        "action": "order",
+        "value": "pizza with pepperoni"
+      },
+      {
+        "action": "deliver",
+        "destination": "home"
+      }
+    ]
+  },
+  {
+    "text": "Search for DIY home decor ideas and bookmark the most interesting ones.",
+    "labels": [
+      {
+        "action": "search",
+        "value": "DIY home decor ideas"
+      },
+      {
+        "action": "bookmark",
+        "destination": "interesting ideas"
+      }
+    ]
+  },
+  {
+    "text": "Calculate the total cost of my shopping cart and notify me of any discounts.",
+    "labels": [
+      {
+        "action": "calculate",
+        "value": "total cost of my shopping cart"
+      },
+      {
+        "action": "notify",
+        "value": "discounts"
+      }
+    ]
+  },
+  {
+    "text": "Learn to play the guitar and record a practice session for feedback.",
+    "labels": [
+      {
+        "action": "learn",
+        "value": "play the guitar"
+      },
+      {
+        "action": "record",
+        "destination": "practice session",
+        "value": "feedback"
+      }
+    ]
+  },
+  {
+    "text": "Research vacation spots in Thailand and share the top recommendations with friends.",
+    "labels": [
+      {
+        "action": "research",
+        "value": "vacation spots in Thailand"
+      },
+      {
+        "action": "share",
+        "destination": "friends",
+        "value": "top recommendations"
+      }
+    ]
+  },
+  {
+    "text": "Track my daily water intake and remind me to stay hydrated.",
+    "labels": [
+      {
+        "action": "track",
+        "value": "daily water intake"
+      },
+      {
+        "action": "remind",
+        "value": "stay hydrated"
+      }
+    ]
+  },
+  {
+    "text": "Find a tutorial on Python programming and add it to my bookmarks.",
+    "labels": [
+      { "action": "find", "value": "tutorial on Python programming" },
+      { "action": "add", "destination": "bookmarks" }
+    ]
+  },
+  {
+    "text": "Order groceries for the week and schedule delivery to my home.",
+    "labels": [
+      { "action": "order", "value": "groceries for the week" },
+      { "action": "schedule", "destination": "delivery", "value": "home" }
+    ]
+  },
+  {
+    "text": "Check the latest football scores and set a reminder for the next match.",
+    "labels": [
+      { "action": "check", "value": "latest football scores" },
+      { "action": "set", "destination": "reminder", "value": "next match" }
+    ]
+  },
+  {
+    "text": "Compose a song about love and share it on social media.",
+    "labels": [
+      { "action": "compose", "value": "song about love" },
+      { "action": "share", "destination": "social media" }
+    ]
+  },
+  {
+    "text": "Calculate the area of my garden and plan the layout for planting.",
+    "labels": [
+      { "action": "calculate", "value": "area of my garden" },
+      { "action": "plan", "destination": "layout for planting" }
+    ]
+  },
+  {
+    "text": "Search for healthy dinner recipes and email them to my spouse.",
+    "labels": [
+      { "action": "search", "value": "healthy dinner recipes" },
+      { "action": "email", "destination": "spouse" }
+    ]
+  },
+  {
+    "text": "Learn a new language and record my progress for self-assessment.",
+    "labels": [
+      { "action": "learn", "value": "new language" },
+      {
+        "action": "record",
+        "destination": "progress",
+        "value": "self-assessment"
+      }
+    ]
+  },
+  {
+    "text": "Find a podcast on mindfulness and subscribe for daily updates.",
+    "labels": [
+      { "action": "find", "value": "podcast on mindfulness" },
+      { "action": "subscribe", "destination": "daily updates" }
+    ]
+  },
+  {
+    "text": "Order a birthday gift for my friend and have it wrapped with a personalized message.",
+    "labels": [
+      { "action": "order", "value": "birthday gift for my friend" },
+      { "action": "wrap", "destination": "personalized message" }
+    ]
+  },
+  {
+    "text": "Research eco-friendly home appliances and add them to my wishlist.",
+    "labels": [
+      { "action": "research", "value": "eco-friendly home appliances" },
+      { "action": "add", "destination": "wishlist" }
+    ]
+  },
+  {
+    "text": "Check flight prices to Paris and set an alert for price drops.",
+    "labels": [
+      { "action": "check", "value": "flight prices to Paris" },
+      { "action": "set", "destination": "alert", "value": "price drops" }
+    ]
+  },
+  {
+    "text": "Find hiking trails in the mountains and create a route for the weekend.",
+    "labels": [
+      { "action": "find", "value": "hiking trails in the mountains" },
+      { "action": "create", "destination": "route for the weekend" }
+    ]
+  },
+  {
+    "text": "Search for online courses on artificial intelligence and enroll in one.",
+    "labels": [
+      {
+        "action": "search",
+        "value": "online courses on artificial intelligence"
+      },
+      { "action": "enroll" }
+    ]
+  },
+  {
+    "text": "Read articles on space exploration and save them to my reading list.",
+    "labels": [
+      { "action": "read", "value": "articles on space exploration" },
+      { "action": "save", "destination": "reading list" }
+    ]
+  },
+  {
+    "text": "Calculate the total cost of my monthly expenses and analyze the budget.",
+    "labels": [
+      { "action": "calculate", "value": "total cost of my monthly expenses" },
+      { "action": "analyze", "destination": "budget" }
+    ]
+  },
+  {
+    "text": "Order a new book by my favorite author and have it delivered to my office.",
+    "labels": [
+      { "action": "order", "value": "new book by my favorite author" },
+      { "action": "deliver", "destination": "office" }
+    ]
+  },
+  {
+    "text": "Search for DIY home decor ideas and bookmark the most interesting ones.",
+    "labels": [
+      { "action": "search", "value": "DIY home decor ideas" },
+      { "action": "bookmark", "destination": "interesting ideas" }
+    ]
+  },
+  {
+    "text": "Check the weather forecast for the weekend and plan outdoor activities.",
+    "labels": [
+      { "action": "check", "value": "weather forecast for the weekend" },
+      { "action": "plan", "destination": "outdoor activities" }
+    ]
+  },
+  {
+    "text": "Learn to play the piano and record a practice session for self-improvement.",
+    "labels": [
+      { "action": "learn", "value": "play the piano" },
+      {
+        "action": "record",
+        "destination": "practice session",
+        "value": "self-improvement"
+      }
+    ]
+  },
+  {
+    "text": "Find a recipe for a vegetarian lasagna and add it to my cooking repertoire.",
+    "labels": [
+      { "action": "find", "value": "recipe for a vegetarian lasagna" },
+      { "action": "add", "destination": "cooking repertoire" }
+    ]
+  },
+  {
+    "text": "Order a new pair of running shoes and customize them with my initials.",
+    "labels": [
+      { "action": "order", "value": "new pair of running shoes" },
+      { "action": "customize", "destination": "initials" }
+    ]
+  },
+  {
+    "text": "Check the stock prices for my favorite tech companies and set up alerts.",
+    "labels": [
+      {
+        "action": "check",
+        "value": "stock prices for my favorite tech companies"
+      },
+      { "action": "set", "destination": "alerts" }
+    ]
+  },
+  {
+    "text": "Search for travel destinations in Southeast Asia and create an itinerary.",
+    "labels": [
+      { "action": "search", "value": "travel destinations in Southeast Asia" },
+      { "action": "create", "destination": "itinerary" }
+    ]
+  },
+  {
+    "text": "Read a book on mindfulness and share key insights with my book club.",
+    "labels": [
+      { "action": "read", "value": "book on mindfulness" },
+      { "action": "share", "destination": "book club", "value": "key insights" }
+    ]
+  },
+  {
+    "text": "Find a new workout routine and track my progress for fitness improvement.",
+    "labels": [
+      { "action": "find", "value": "new workout routine" },
+      {
+        "action": "track",
+        "destination": "progress",
+        "value": "fitness improvement"
+      }
+    ]
+  },
+  {
+    "text": "Order a surprise gift for my family and have it wrapped with festive packaging.",
+    "labels": [
+      { "action": "order", "value": "surprise gift for my family" },
+      { "action": "wrap", "destination": "festive packaging" }
+    ]
+  },
+  {
+    "text": "Check the traffic conditions on my commute route and receive real-time updates.",
+    "labels": [
+      { "action": "check", "value": "traffic conditions on my commute route" },
+      { "action": "receive", "destination": "real-time updates" }
+    ]
+  },
+  {
+    "text": "Search for articles on sustainable living and compile a list of actionable tips.",
+    "labels": [
+      { "action": "search", "value": "articles on sustainable living" },
+      { "action": "compile", "destination": "list of actionable tips" }
+    ]
+  },
+  {
+    "text": "Learn to juggle and perform at the next family gathering.",
+    "labels": [
+      { "action": "learn", "value": "juggle" },
+      { "action": "perform", "destination": "next family gathering" }
+    ]
+  },
+  {
+    "text": "Order a new smartphone and have it delivered to my workplace.",
+    "labels": [
+      { "action": "order", "value": "new smartphone" },
+      { "action": "deliver", "destination": "workplace" }
+    ]
+  },
+  {
+    "text": "Research the history of ancient civilizations and summarize key findings.",
+    "labels": [
+      { "action": "research", "value": "history of ancient civilizations" },
+      { "action": "summarize", "value": "key findings" }
+    ]
+  },
+  {
+    "text": "Check the availability of concert tickets for my favorite band and purchase them.",
+    "labels": [
+      {
+        "action": "check",
+        "value": "availability of concert tickets for my favorite band"
+      },
+      { "action": "purchase" }
+    ]
+  },
+  {
+    "text": "Find a new podcast on astronomy and subscribe for weekly episodes.",
+    "labels": [
+      { "action": "find", "value": "new podcast on astronomy" },
+      { "action": "subscribe", "destination": "weekly episodes" }
+    ]
+  },
+  {
+    "text": "Order a new set of art supplies and organize them in my studio.",
+    "labels": [
+      { "action": "order", "value": "new set of art supplies" },
+      { "action": "organize", "destination": "studio" }
+    ]
+  },
+  {
+    "text": "Search for job opportunities in the tech industry and update my resume.",
+    "labels": [
+      { "action": "search", "value": "job opportunities in the tech industry" },
+      { "action": "update", "destination": "resume" }
+    ]
+  },
+  {
+    "text": "Read articles on nutrition and compile a list of healthy recipes.",
+    "labels": [
+      { "action": "read", "value": "articles on nutrition" },
+      { "action": "compile", "destination": "list of healthy recipes" }
+    ]
+  },
+  {
+    "text": "Check the schedule for local events and plan a weekend outing.",
+    "labels": [
+      { "action": "check", "value": "schedule for local events" },
+      { "action": "plan", "destination": "weekend outing" }
+    ]
+  },
+  {
+    "text": "Find a new video game to play and add it to my gaming library.",
+    "labels": [
+      { "action": "find", "value": "new video game to play" },
+      { "action": "add", "destination": "gaming library" }
+    ]
+  },
+  {
+    "text": "Order a custom-made birthday cake and have it delivered to my friend's party.",
+    "labels": [
+      { "action": "order", "value": "custom-made birthday cake" },
+      { "action": "deliver", "destination": "friend's party" }
+    ]
+  },
+  {
+    "text": "Check the latest fashion trends and update my wardrobe with key pieces.",
+    "labels": [
+      { "action": "check", "value": "latest fashion trends" },
+      { "action": "update", "destination": "wardrobe", "value": "key pieces" }
+    ]
+  },
+  {
+    "text": "Search for volunteer opportunities in my community and sign up.",
+    "labels": [
+      {
+        "action": "search",
+        "value": "volunteer opportunities in my community"
+      },
+      { "action": "sign up" }
+    ]
+  },
+  {
+    "text": "Read a book on personal development and apply key concepts in my daily life.",
+    "labels": [
+      { "action": "read", "value": "book on personal development" },
+      {
+        "action": "apply",
+        "destination": "daily life",
+        "value": "key concepts"
+      }
+    ]
+  },
+  {
+    "text": "Order a new set of gardening tools and plant flowers in my backyard.",
+    "labels": [
+      { "action": "order", "value": "new set of gardening tools" },
+      { "action": "plant", "destination": "flowers", "value": "in my backyard" }
+    ]
+  },
+  {
+    "text": "Search for the best hiking trails in national parks and plan a road trip.",
+    "labels": [
+      { "action": "search", "value": "best hiking trails in national parks" },
+      { "action": "plan", "destination": "road trip" }
+    ]
+  },
+  {
+    "text": "Learn to code in JavaScript and build a simple web application.",
+    "labels": [
+      { "action": "learn", "value": "code in JavaScript" },
+      { "action": "build", "destination": "simple web application" }
+    ]
+  },
+  {
+    "text": "Check my email for important messages and reply to urgent ones.",
+    "labels": [
+      { "action": "check", "value": "email for important messages" },
+      { "action": "reply", "value": "urgent ones" }
+    ]
+  },
+  {
+    "text": "Search for motivational quotes and create a vision board for inspiration.",
+    "labels": [
+      { "action": "search", "value": "motivational quotes" },
+      {
+        "action": "create",
+        "destination": "vision board",
+        "value": "inspiration"
+      }
+    ]
+  },
+  {
+    "text": "Order a personalized mug with my favorite quote and have it shipped to my friend.",
+    "labels": [
+      { "action": "order", "value": "personalized mug with my favorite quote" },
+      { "action": "ship", "destination": "friend" }
+    ]
+  },
+  {
+    "text": "Check the reviews for the latest tech gadgets and update my wishlist.",
+    "labels": [
+      { "action": "check", "value": "reviews for the latest tech gadgets" },
+      { "action": "update", "destination": "wishlist" }
+    ]
+  },
+  {
+    "text": "Search for online courses on photography and enroll in an advanced class.",
+    "labels": [
+      { "action": "search", "value": "online courses on photography" },
+      { "action": "enroll", "value": "advanced class" }
+    ]
+  },
+  {
+    "text": "Read a novel by a new author and share my thoughts on social media.",
+    "labels": [
+      { "action": "read", "value": "novel by a new author" },
+      { "action": "share", "destination": "social media", "value": "thoughts" }
+    ]
+  },
+  {
+    "text": "Order a new set of professional attire and have it tailored for a perfect fit.",
+    "labels": [
+      { "action": "order", "value": "new set of professional attire" },
+      { "action": "tailor", "destination": "perfect fit" }
+    ]
+  },
+  {
+    "text": "Check the latest updates on space exploration and share them with my science club.",
+    "labels": [
+      { "action": "check", "value": "latest updates on space exploration" },
+      { "action": "share", "destination": "science club" }
+    ]
+  },
+  {
+    "text": "Search for eco-friendly travel destinations and plan a sustainable vacation.",
+    "labels": [
+      { "action": "search", "value": "eco-friendly travel destinations" },
+      { "action": "plan", "destination": "sustainable vacation" }
+    ]
+  },
+  {
+    "text": "Learn to play a new musical instrument and record a performance for family and friends.",
+    "labels": [
+      { "action": "learn", "value": "play a new musical instrument" },
+      {
+        "action": "record",
+        "destination": "performance",
+        "value": "family and friends"
+      }
+    ]
+  },
+  {
+    "text": "Order a gift card for my favorite online store and send it to my sister.",
+    "labels": [
+      { "action": "order", "value": "gift card for my favorite online store" },
+      { "action": "send", "destination": "sister" }
+    ]
+  },
+  {
+    "text": "Check the traffic conditions on my route to work and adjust my departure time.",
+    "labels": [
+      { "action": "check", "value": "traffic conditions on my route to work" },
+      { "action": "adjust", "destination": "departure time" }
+    ]
+  },
+  {
+    "text": "Search for articles on time management and create a personalized schedule.",
+    "labels": [
+      { "action": "search", "value": "articles on time management" },
+      { "action": "create", "destination": "personalized schedule" }
+    ]
+  },
+  {
+    "text": "Read a biography of a historical figure and discuss key events with my book club.",
+    "labels": [
+      { "action": "read", "value": "biography of a historical figure" },
+      { "action": "discuss", "destination": "book club", "value": "key events" }
+    ]
+  },
+  {
+    "text": "Order a new set of cooking utensils and try out a new recipe for dinner.",
+    "labels": [
+      { "action": "order", "value": "new set of cooking utensils" },
+      { "action": "try out", "destination": "new recipe for dinner" }
+    ]
+  },
+  {
+    "text": "Check the availability of concert tickets for my favorite artist and purchase them.",
+    "labels": [
+      {
+        "action": "check",
+        "value": "availability of concert tickets for my favorite artist"
+      },
+      { "action": "purchase" }
+    ]
+  },
+  {
+    "text": "Search for DIY home improvement projects and create a to-do list.",
+    "labels": [
+      { "action": "search", "value": "DIY home improvement projects" },
+      { "action": "create", "destination": "to-do list" }
+    ]
+  },
+  {
+    "text": "Learn a dance routine and perform it at the upcoming family reunion.",
+    "labels": [
+      { "action": "learn", "value": "dance routine" },
+      { "action": "perform", "destination": "upcoming family reunion" }
+    ]
+  },
+  {
+    "text": "Order a new puzzle game and have it delivered to my friend as a surprise gift.",
+    "labels": [
+      { "action": "order", "value": "new puzzle game" },
+      { "action": "deliver", "destination": "friend", "value": "surprise gift" }
+    ]
+  },
+  {
+    "text": "Check the reviews for the latest movies and update my watchlist.",
+    "labels": [
+      { "action": "check", "value": "reviews for the latest movies" },
+      { "action": "update", "destination": "watchlist" }
+    ]
+  },
+  {
+    "text": "Search for pet-friendly parks in my city and plan a day out with my dog.",
+    "labels": [
+      { "action": "search", "value": "pet-friendly parks in my city" },
+      { "action": "plan", "destination": "day out with my dog" }
+    ]
+  },
+  {
+    "text": "Learn to knit and create a scarf as a handmade gift for my grandmother.",
+    "labels": [
+      { "action": "learn", "value": "knit" },
+      {
+        "action": "create",
+        "destination": "scarf",
+        "value": "handmade gift for my grandmother"
+      }
+    ]
+  },
+  {
+    "text": "Order a new set of skincare products and incorporate them into my daily routine.",
+    "labels": [
+      { "action": "order", "value": "new set of skincare products" },
+      { "action": "incorporate", "destination": "daily routine" }
+    ]
+  },
+  {
+    "text": "Check the latest technology trends and update my knowledge with online courses.",
+    "labels": [
+      { "action": "check", "value": "latest technology trends" },
+      { "action": "update", "destination": "knowledge with online courses" }
+    ]
+  },
+  {
+    "text": "Search for new podcast episodes on science topics and listen during my commute.",
+    "labels": [
+      { "action": "search", "value": "new podcast episodes on science topics" },
+      { "action": "listen", "destination": "commute" }
+    ]
+  },
+  {
+    "text": "Read a book on quantum physics and discuss key concepts with my study group.",
+    "labels": [
+      { "action": "read", "value": "book on quantum physics" },
+      {
+        "action": "discuss",
+        "destination": "study group",
+        "value": "key concepts"
+      }
+    ]
+  },
+  {
+    "text": "Order a new set of gardening seeds and plant a variety of flowers in my backyard.",
+    "labels": [
+      { "action": "order", "value": "new set of gardening seeds" },
+      {
+        "action": "plant",
+        "destination": "variety of flowers",
+        "value": "in my backyard"
+      }
+    ]
+  },
+  {
+    "text": "Search for online courses on graphic design and enroll in a certification program.",
+    "labels": [
+      { "action": "search", "value": "online courses on graphic design" }
+    ]
+  }
+]
